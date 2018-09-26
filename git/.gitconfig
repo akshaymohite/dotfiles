@@ -29,7 +29,7 @@
 [core]
 	editor = /usr/bin/vim
 	autocrlf = input
-	excludesfile = /Users/akshay/.gitignore_global
+	excludesfile = /path/to/.gitignore_global
 [commit]
 	gpgsign = true
 [filter "lfs"]
